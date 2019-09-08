@@ -1,0 +1,10 @@
+E:\Project 5\MovieProject\MovieProject.Model\bin\Debug\MovieProject.Model.dll.config
+E:\Project 5\MovieProject\MovieProject.Model\bin\Debug\MovieProject.Model.dll
+E:\Project 5\MovieProject\MovieProject.Model\bin\Debug\MovieProject.Model.pdb
+E:\Project 5\MovieProject\MovieProject.Model\bin\Debug\EntityFramework.dll
+E:\Project 5\MovieProject\MovieProject.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project 5\MovieProject\MovieProject.Model\bin\Debug\EntityFramework.xml
+E:\Project 5\MovieProject\MovieProject.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project 5\MovieProject\MovieProject.Model\obj\Debug\MovieProject.Model.dll
+E:\Project 5\MovieProject\MovieProject.Model\obj\Debug\MovieProject.Model.pdb
+E:\Project 5\MovieProject\MovieProject.Model\obj\Debug\MovieProject.Model.csprojResolveAssemblyReference.cache

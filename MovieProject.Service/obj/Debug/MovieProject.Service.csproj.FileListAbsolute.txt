@@ -1,0 +1,15 @@
+E:\Project 5\MovieProject\MovieProject.Service\bin\Debug\MovieProject.Service.dll
+E:\Project 5\MovieProject\MovieProject.Service\bin\Debug\MovieProject.Service.pdb
+E:\Project 5\MovieProject\MovieProject.Service\bin\Debug\MovieProject.common.dll
+E:\Project 5\MovieProject\MovieProject.Service\bin\Debug\MovieProject.Data.dll
+E:\Project 5\MovieProject\MovieProject.Service\bin\Debug\MovieProject.Model.dll
+E:\Project 5\MovieProject\MovieProject.Service\bin\Debug\MovieProject.common.pdb
+E:\Project 5\MovieProject\MovieProject.Service\bin\Debug\MovieProject.Data.pdb
+E:\Project 5\MovieProject\MovieProject.Service\bin\Debug\MovieProject.Data.dll.config
+E:\Project 5\MovieProject\MovieProject.Service\bin\Debug\MovieProject.Model.pdb
+E:\Project 5\MovieProject\MovieProject.Service\bin\Debug\MovieProject.Model.dll.config
+E:\Project 5\MovieProject\MovieProject.Service\obj\Debug\MovieProject.Service.csprojResolveAssemblyReference.cache
+E:\Project 5\MovieProject\MovieProject.Service\obj\Debug\MovieProject.Service.dll
+E:\Project 5\MovieProject\MovieProject.Service\obj\Debug\MovieProject.Service.pdb
+E:\Project 5\MovieProject\MovieProject.Service\bin\Debug\EntityFramework.dll
+E:\Project 5\MovieProject\MovieProject.Service\bin\Debug\EntityFramework.xml
